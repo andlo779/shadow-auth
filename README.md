@@ -1,0 +1,2 @@
+# shadow-auth
+Authorization service
